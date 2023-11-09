@@ -158,7 +158,7 @@ Agradecemos antecipadamente por qualquer contribuição.
     <tr>
         <td align="center">
             <a href="https://github.com/paularml">
-                <img src="https://media.licdn.com/dms/image/D4E03AQEWD0ss9HX79g/profile-displayphoto-shrink_800_800/0/1677164225411?e=1701302400&v=beta&t=uY12VoE8GGV7-7bhgq9sAhMO0A_CUqcwAFlBNTzhI6k" width="190px;" alt="Imagem de Paula Magalhães Leite" />
+                <img src="https://media.licdn.com/dms/image/D4D03AQE3oc_qqvdPEw/profile-displayphoto-shrink_800_800/0/1697671750162?e=1704931200&v=beta&t=6VPtK5IeK-YD9hLYbRfxCSlQ7Jt8pi5UU-6_9wTk5_w" width="190px;" alt="Imagem de Paula Magalhães Leite" />
                 <br />
                 <sub><b>Paula Magalhães Leite</b></sub>
             </a>
